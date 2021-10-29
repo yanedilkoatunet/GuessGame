@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+h1{
+    font-size: 54px;
+}
+
+span{
+    font-size: 24px;
+    margin: 20px 0 20px 0;
+}
+
+.wrapper{
+    width: 100%;
+    background-image: url(forest.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 1200px;
+    padding: 300px;
+    text-align: center;
+    color:white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.submit{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+}
