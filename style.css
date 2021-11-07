@@ -4,7 +4,7 @@ body{
     font-family: 'Carrois Gothic SC', sans-serif;
 }
 h1{
-    font-size: 54px;
+    font-size: 60px;
 }
 
 span{
@@ -19,7 +19,6 @@ span{
     background-repeat: no-repeat;
 }
 .container{
-    width: 1200px;
     padding: 300px;
     text-align: center;
     color:white;
