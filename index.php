@@ -50,7 +50,7 @@
                             <p>Choose your number</p>
                             <select name='choose'>
                         ");
-                        for($i = 1; $i < 11; $i++){
+                        for($i = 1; $i <= 10; $i++){
                             echo("<option value='".$i."'>".$i."</option>");
                         }
                         echo("</select>");
